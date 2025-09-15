@@ -31,3 +31,7 @@ The AI should:
 - Covers both syntax and logical bugs, making the prompt **general but actionable**.  
   - Suggest tools like `pdb`, unit tests, or logging for deeper analysis.
 
+## ✅ Checklist
+- [x] Prompt is clear, specific, well-structured  
+- [x] Reasoning includes all required parts (tone/style, guidance vs identification, beginner vs advanced)  
+- [x] Avoids giving the solution explicitly  
