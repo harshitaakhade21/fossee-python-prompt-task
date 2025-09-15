@@ -29,7 +29,7 @@ The AI should:
 - Clearly instructs the AI to **avoid giving the corrected code** → prevents spoon-feeding.  
 - Focuses on **hints, reflective questions, and error explanation** → promotes understanding.  
 - Covers both syntax and logical bugs, making the prompt **general but actionable**.  
-  - Suggest tools like `pdb`, unit tests, or logging for deeper analysis.
+- Suggest tools like `pdb`, unit tests, or logging for deeper analysis.
 
 ## ✅ Checklist
 - [x] Prompt is clear, specific, well-structured  
